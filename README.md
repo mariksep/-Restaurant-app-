@@ -4,6 +4,7 @@ Web appplication <br>
 
 This application is for displays restaurant from restaurants.json file. 
 The button organizes restaurants in ascending order and second click descending.
+<link href="https://htmlpreview.github.io/?https://github.com/mariksep/-Restaurant-app-/blob/master/index.html"> app</link
 
 Techniques:
 <ul>
