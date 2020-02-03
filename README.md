@@ -15,11 +15,9 @@ HTML5
 CSS3
 </li>
 <li>
-JavaScript
+JavaScript(ES6) 
 </li>
-<li>
-ECMAScript6
-</li>
+
 </ul>
 
 
